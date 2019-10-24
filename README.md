@@ -1,4 +1,4 @@
-## Instructions for students:
+## Instructions:
 
 ### Find the Word
 
@@ -58,8 +58,4 @@ Found 'individual' 1 times
 
 -   Run on your program with an empty string (`" "`) as the first argument. It should find the correct amount of times that a space appears on a file.
 
-### Rules
 
--   This is an individual assignment.
--   Deadline: 45 minutes.
--   Use **Git properly**
